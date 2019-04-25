@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "posts", schema = "public")
 public class Post {
+
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
@@ -57,6 +58,34 @@ public class Post {
 	public String toString() {
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 	}
-	
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Post other = (Post) obj;
+		if (body == null) {
+			if (other.body != null)
+				return false;
+		} else if (!body.equals(other.body))
+			return false;
+		if (id != other.id)
+			return false;
+		if (title == null) {
+			if (other.title != null)
+				return false;
+		} else if (!title.equals(other.title))
+			return false;
+		if (user == null) {
+			if (other.user != null)
+				return false;
+		} else if (!user.equals(other.user))
+			return false;
+		return true;
+	}
 
 }
