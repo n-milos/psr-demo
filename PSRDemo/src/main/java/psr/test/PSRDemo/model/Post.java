@@ -86,9 +86,8 @@ public class Post {
 		} else if (!user.equals(other.user))
 			return false;
 		return true;
-    	}
-  
-  
+	}
+
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
@@ -97,4 +96,5 @@ public class Post {
 		result = prime * result + ((title == null) ? 0 : title.hashCode());
 		result = prime * result + ((user == null) ? 0 : user.hashCode());
 		return result;
+	}
 }
