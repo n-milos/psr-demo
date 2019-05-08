@@ -59,6 +59,7 @@ public class Post {
 		//Dodao sam ovaj komentar kako bi bilo nesto dodato :D
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 		//Dodao sam na grani nesto
+		//Jos jedna korekcija
 	}
 
 	@Override
