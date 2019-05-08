@@ -56,6 +56,7 @@ public class Post {
 
 	@Override
 	public String toString() {
+		//Dodao sam ovaj komentar kako bi bilo nesto dodato :D
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 	}
 
