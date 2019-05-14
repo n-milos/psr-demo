@@ -12,6 +12,7 @@ public class User {
 	//Jos jedna ispravka na masteru
 	//Da vidimo sta je sa ovim revert
 	//Ispravka greska
+	//Ispravka greske 2
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
