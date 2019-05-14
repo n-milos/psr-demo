@@ -19,8 +19,12 @@ public class User {
 	private String email;
 	@Column(name = "addqress")
 	private String address;
+<<<<<<< HEAD
 	//Evo jos jedan komentar
 	// Evo i jedan komentar da turim
+=======
+
+>>>>>>> parent of 990b348... Dodat komentar
 	public long getId() {
 		return id;
 	}
