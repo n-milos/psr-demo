@@ -24,6 +24,7 @@ public class User {
 	private String address;
 	//Dodat komentar 1
 	//Dodat komentar 0
+	//
 
 	public long getId() {
 		return id;
