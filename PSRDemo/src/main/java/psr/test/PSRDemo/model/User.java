@@ -20,6 +20,7 @@ public class User {
 	@Column(name = "addqress")
 	private String address;
 
+	// Evo i jedan komentar da turim
 	public long getId() {
 		return id;
 	}
