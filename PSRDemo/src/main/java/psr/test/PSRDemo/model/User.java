@@ -19,6 +19,7 @@ public class User {
 	private String email;
 	@Column(name = "address")
 	private String address;
+	//Dodat komentar 0
 
 	public long getId() {
 		return id;
