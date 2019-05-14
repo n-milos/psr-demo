@@ -60,6 +60,8 @@ public class User {
 		this.username = username;
 	}
 	//Linija 4
+	//Linija 5
+	//Linija 6
 
 	public String getEmail() {
 		return email;
@@ -74,12 +76,10 @@ public class User {
 	public String getAddress() {
 		return address;
 	}
-<<<<<<< HEAD
-=======
+
 	//
 	//
 	//
->>>>>>> 5be2742... kon
 
 	public void setAddress(String address) {
 		this.address = address;
