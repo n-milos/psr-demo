@@ -10,6 +10,7 @@ import javax.persistence.Table;
 public class User {
 	//Neka promjena na masteru
 	//Jos jedna ispravka na masteru
+	//Da vidimo sta je sa ovim revert
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
