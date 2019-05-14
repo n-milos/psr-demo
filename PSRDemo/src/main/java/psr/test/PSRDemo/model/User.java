@@ -9,6 +9,7 @@ import javax.persistence.Table;
 @Table(name = "users", schema = "public")
 public class User {
 	//Neka promjena na masteru
+	//Jos jedna ispravka na masteru
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
