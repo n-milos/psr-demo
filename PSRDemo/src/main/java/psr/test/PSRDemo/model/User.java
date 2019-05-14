@@ -76,15 +76,12 @@ public class User {
 	public String getAddress() {
 		return address;
 	}
-<<<<<<< HEAD
 	//Feature 1
 	//Feature 1
 	//Feature 1
 	//Feature 1
 	//Feature 1
 
-=======
->>>>>>> parent of 6461804... Feature 1
 	//
 	//
 	//
