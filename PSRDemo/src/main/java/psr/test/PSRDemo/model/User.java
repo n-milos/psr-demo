@@ -43,7 +43,9 @@ public class User {
 	public String getName() {
 		return name;
 	}
-q
+	//
+	//
+	//
 	public void setName(String name) {
 		this.name = name;
 	}
