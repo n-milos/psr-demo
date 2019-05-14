@@ -19,7 +19,7 @@ public class User {
 	private String email;
 	@Column(name = "addqress")
 	private String address;
-
+	//Evo jos jedan komentar
 	// Evo i jedan komentar da turim
 	public long getId() {
 		return id;
