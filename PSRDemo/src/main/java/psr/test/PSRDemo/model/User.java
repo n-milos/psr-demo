@@ -22,10 +22,13 @@ public class User {
 	public long getId() {
 		return id;
 	}
+<<<<<<< HEAD
 	//Linija 1
 	//Linija 2
 	//Linija 3
 	//Linija 4
+=======
+>>>>>>> parent of f53259f... Dodata linija 1
 
 	public void setId(long id) {
 		this.id = id;
