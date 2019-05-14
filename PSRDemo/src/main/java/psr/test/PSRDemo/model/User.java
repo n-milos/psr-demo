@@ -50,7 +50,7 @@ public class User {
 		this.name = name;
 	}
 	//Linija 1
-
+	//Linija 2
 	public String getUsername() {
 		return username;
 	}
