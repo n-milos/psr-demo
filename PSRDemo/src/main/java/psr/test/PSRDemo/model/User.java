@@ -76,6 +76,11 @@ public class User {
 	public String getAddress() {
 		return address;
 	}
+	//Feature 1
+	//Feature 1
+	//Feature 1
+	//Feature 1
+	//Feature 1
 	//
 	//
 	//
