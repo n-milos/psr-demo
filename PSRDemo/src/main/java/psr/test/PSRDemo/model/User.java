@@ -22,6 +22,7 @@ public class User {
 	public long getId() {
 		return id;
 	}
+	//Linija 1
 
 	public void setId(long id) {
 		this.id = id;
