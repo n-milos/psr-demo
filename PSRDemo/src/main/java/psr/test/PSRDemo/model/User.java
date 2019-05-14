@@ -26,6 +26,7 @@ public class User {
 	//Dodat komentar 0
 	//
 	//
+	//
 	public long getId() {
 		return id;
 	}
