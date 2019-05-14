@@ -59,6 +59,7 @@ public class User {
 	public void setUsername(String username) {
 		this.username = username;
 	}
+	//Linija 4
 
 	public String getEmail() {
 		return email;
