@@ -8,6 +8,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "users", schema = "public")
 public class User {
+	//Neka promjena na masteru
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
