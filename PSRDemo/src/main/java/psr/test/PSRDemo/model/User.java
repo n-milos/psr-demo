@@ -77,10 +77,6 @@ public class User {
 		return address;
 	}
 	//Feature 1
-	//Feature 1
-	//Feature 1
-	//Feature 1
-	//Feature 1
 	//
 	//
 	//
