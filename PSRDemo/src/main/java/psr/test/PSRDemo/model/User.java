@@ -12,6 +12,7 @@ public class User {
 	//Jos jedna ispravka na masteru
 	//Da vidimo sta je sa ovim revertgit 
 	@Id
+	//
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
 	@Column(name = "name")
@@ -38,7 +39,7 @@ public class User {
 	public String getName() {
 		return name;
 	}
-
+q
 	public void setName(String name) {
 		this.name = name;
 	}
