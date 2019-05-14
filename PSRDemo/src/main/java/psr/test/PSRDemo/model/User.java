@@ -49,6 +49,7 @@ public class User {
 	public void setName(String name) {
 		this.name = name;
 	}
+	//Linija 1
 
 	public String getUsername() {
 		return username;
