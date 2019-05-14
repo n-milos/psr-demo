@@ -73,6 +73,12 @@ public class User {
 	public String getAddress() {
 		return address;
 	}
+<<<<<<< HEAD
+=======
+	//
+	//
+	//
+>>>>>>> 5be2742... kon
 
 	public void setAddress(String address) {
 		this.address = address;
