@@ -25,6 +25,7 @@ public class User {
 	//Linija 1
 	//Linija 2
 	//Linija 3
+	//Linija 4
 
 	public void setId(long id) {
 		this.id = id;
