@@ -10,9 +10,8 @@ import javax.persistence.Table;
 public class User {
 	//Neka promjena na masteru
 	//Jos jedna ispravka na masteru
-	//Da vidimo sta je sa ovim revert
+	//Da vidimo sta je sa ovim revertgit 
 	//Ispravka greska
-	//Ispravka greske 2
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
@@ -22,7 +21,7 @@ public class User {
 	private String username;
 	@Column(name = "email")
 	private String email;
-	@Column(name = "address")
+	@Column(name = "addqress")
 	private String address;
 	//Dodat komentar 1
 	//Dodat komentar 0
