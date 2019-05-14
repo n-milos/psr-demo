@@ -11,6 +11,7 @@ public class User {
 	//Neka promjena na masteru
 	//Jos jedna ispravka na masteru
 	//Da vidimo sta je sa ovim revert
+	//Ispravka greska
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
