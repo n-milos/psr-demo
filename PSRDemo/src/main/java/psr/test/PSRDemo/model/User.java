@@ -29,8 +29,6 @@ public class User {
 		return id;
 	}
 	//Dodat komentar 4
-	//Dodat komentar 2
-	
 	public void setId(long id) {
 		this.id = id;
 	}
