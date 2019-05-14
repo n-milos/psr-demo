@@ -22,6 +22,8 @@ public class User {
 	public long getId() {
 		return id;
 	}
+	//Linija 1
+	//Linija 2
 
 	public void setId(long id) {
 		this.id = id;
