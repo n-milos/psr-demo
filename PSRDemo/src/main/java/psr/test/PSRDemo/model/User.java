@@ -13,6 +13,7 @@ public class User {
 	//Da vidimo sta je sa ovim revertgit 
 	@Id
 	//
+	//
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
 	@Column(name = "name")
