@@ -57,6 +57,7 @@ public class Post {
 		return body;
 	}
 	//Jedna dorada
+	//Jedna dorada
 
 	public void setBody(String body) {
 		this.body = body;
