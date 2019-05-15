@@ -53,7 +53,7 @@ public class Post {
 	public void setTitle(String title) {
 		this.title = title;
 	}
-	//Neka promjena na masteru na serveru
+	//Opet promjena na masteru
 	public String getBody() {
 		return body;
 	}
