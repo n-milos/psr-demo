@@ -17,10 +17,8 @@ public class User {
 	private String username;
 	@Column(name = "email")
 	private String email;
-	@Column(name = "address")
+	@Column(name = "addqress")
 	private String address;
-	//Dodat komentar 1
-	//Dodat komentar 0
 
 	public long getId() {
 		return id;
@@ -65,7 +63,8 @@ public class User {
 
 	@Override
 	public String toString() {
-		return "User [id=" + id + ", name=" + name + ", username=" + username + ", email=" + email + ", address=" + address + "]";
+		return "User [id=" + id + ", name=" + name + ", username=" + username + ", email=" + email + ", address="
+				+ address + "]";
 	}
 
 }
