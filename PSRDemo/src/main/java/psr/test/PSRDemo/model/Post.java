@@ -41,6 +41,7 @@ public class Post {
 	public void setUser(User user) {
 		this.user = user;
 	}
+	//Dodata linija 1
 
 	public String getTitle() {
 		return title;
