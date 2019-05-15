@@ -19,7 +19,8 @@ public class User {
 	private String email;
 	@Column(name = "addqress")
 	private String address;
-
+	//Dorada
+	//Test
 	public long getId() {
 		return id;
 	}
