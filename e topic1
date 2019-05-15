@@ -1,0 +1,179 @@
+* [33m076340f[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m Komit na grani
+[31m|[m *   [33m1d829fb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #19 from n-milos/test
+[31m|[m [32m|[m[31m\[m  
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+* [32m|[m [33m0c96901[m[33m ([m[1;31morigin/test[m[33m)[m Update Post.java
+[33m|[m *   [33m85d6430[m[33m ([m[1;33mtag: verzija1[m[33m)[m Merge pull request #18 from n-milos/test
+[33m|[m [34m|[m[33m\[m  
+[33m|[m [34m|[m[33m/[m  
+[33m|[m[33m/[m[34m|[m   
+* [34m|[m   [33m29bba05[m Merge remote-tracking branch 'origin/master' into test
+[36m|[m[34m\[m [34m\[m  
+[36m|[m [34m|[m[34m/[m  
+[36m|[m * [33m3185968[m Server kecevi
+* [1;31m|[m [33mbe2b2e7[m Lokal dvojke
+* [1;31m|[m   [33maeec2fe[m Merge remote-tracking branch 'origin/master' into test
+[1;32m|[m[1;31m\[m [1;31m\[m  
+[1;32m|[m [1;31m|[m[1;31m/[m  
+[1;32m|[m * [33m87d37c0[m Lokal promejena
+[1;32m|[m * [33m2a6976b[m Server promjena
+[1;32m|[m * [33m44b7c47[m Promjena na masteru server
+[1;32m|[m * [33m81ce1b3[m Promjena na masteru lokalno
+[1;32m|[m * [33mb89f4d8[m Update Post.java
+[1;32m|[m * [33m4d31235[m Revert "Revert "Test (#15)" (#16)" (#17)
+[1;32m|[m * [33m0591584[m Revert "Test (#15)" (#16)
+[1;32m|[m * [33m2cd9812[m Test (#15)
+[1;32m|[m *   [33m127b408[m Merge pull request #14 from n-milos/test
+[1;32m|[m [1;34m|[m[1;35m\[m  
+[1;32m|[m * [1;35m|[m [33m93ffc72[m Na grani dorada 3
+[1;32m|[m * [1;35m|[m [33m0a223ff[m Na grani dorada 2
+[1;32m|[m * [1;35m|[m [33m6ef54ba[m Na grani dorada 1
+[1;32m|[m * [1;35m|[m   [33mf4de190[m Merge pull request #12 from n-milos/test
+[1;32m|[m [1;36m|[m[31m\[m [1;35m\[m  
+* [1;36m|[m [31m|[m [1;35m|[m [33mb4a54d0[m Dorada
+* [1;36m|[m [31m|[m [1;35m|[m [33me4aa289[m Dorada 3
+* [1;36m|[m [31m|[m [1;35m|[m [33mf07a846[m Dorada 2
+* [1;36m|[m [31m|[m [1;35m|[m [33macc9726[m Dorada 1
+[1;35m|[m [1;36m|[m[1;35m_[m[31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;36m|[m [31m|[m   
+* [1;36m|[m [31m|[m [33mffc452e[m Na grani dodata linija 3
+* [1;36m|[m [31m|[m [33m5514703[m Na grani dodata linija 2
+* [1;36m|[m [31m|[m [33m7bcca1a[m Na grani dodata linija 1
+* [1;36m|[m [31m|[m [33m6a1212d[m Na grani dorada 3
+* [1;36m|[m [31m|[m [33md2a37f5[m Na grani dorada 2
+* [1;36m|[m [31m|[m [33m1605b3f[m Na grani dorada 1
+[31m|[m [1;36m|[m[31m/[m  
+[31m|[m[31m/[m[1;36m|[m   
+* [1;36m|[m [33m73b32fc[m Dorada na grani
+[1;36m|[m[1;36m/[m  
+* [33m7d1c707[m Obrisan suvisan kod
+*   [33m5f521da[m Dorada
+[32m|[m[33m\[m  
+[32m|[m *   [33m7d800f0[m Merge branch 'master' of https://github.com/n-milos/psr-demo
+[32m|[m [34m|[m[35m\[m  
+[32m|[m [34m|[m * [33m9ba90f5[m Dorada
+[32m|[m [34m|[m * [33mef4a142[m Sredjen kod
+[32m|[m [34m|[m *   [33m63ab92a[m Merge pull request #11 from n-milos/feature
+[32m|[m [34m|[m [36m|[m[1;31m\[m  
+[32m|[m * [36m|[m [1;31m|[m [33mcfa39f7[m Promjena na masteru
+* [1;31m|[m [36m|[m [1;31m|[m [33m7e4624b[m nesto
+* [1;31m|[m [36m|[m [1;31m|[m [33m6e32597[m Revert "Dodata linija 4"
+* [1;31m|[m [36m|[m [1;31m|[m [33m8fcea38[m Revert "Dodata linija 1"
+* [1;31m|[m [36m|[m [1;31m|[m [33m9f9088e[m Revert "Dodata linija 2"
+* [1;31m|[m [36m|[m [1;31m|[m [33m0fd502b[m Dorada
+* [1;31m|[m [36m|[m [1;31m|[m [33m584f048[m Revert "Dodata linija 1"
+* [1;31m|[m [36m|[m [1;31m|[m [33maa7e851[m Dodata linija 4
+* [1;31m|[m [36m|[m [1;31m|[m [33mceb8e9a[m Dodata linija 2
+* [1;31m|[m [36m|[m [1;31m|[m [33m433fe86[m Dodata linija 3
+* [1;31m|[m [36m|[m [1;31m|[m [33mf53259f[m Dodata linija 1
+* [1;31m|[m [36m|[m [1;31m|[m [33mbbd6288[m nesto
+* [1;31m|[m [36m|[m [1;31m|[m [33m2e7d310[m Revert "Dodat komentar"
+* [1;31m|[m [36m|[m [1;31m|[m [33m614f40d[m Dodat komentar 1
+* [1;31m|[m [36m|[m [1;31m|[m [33m990b348[m Dodat komentar
+* [1;31m|[m [36m|[m [1;31m|[m [33m209ee15[m Sredjen kod
+* [1;31m|[m [36m|[m [1;31m|[m [33m04a0373[m Dorada
+[1;31m|[m [1;31m|[m[1;31m_[m[36m|[m[1;31m/[m  
+[1;31m|[m[1;31m/[m[1;31m|[m [36m|[m   
+* [1;31m|[m [36m|[m [33mf68d6b3[m Revert "evert "Feature 4""
+* [1;31m|[m [36m|[m [33m9cba5ce[m Sada je
+* [1;31m|[m [36m|[m [33m27e6441[m Rijesneo
+* [1;31m|[m [36m|[m [33maabcfec[m evert "Feature 4"
+* [1;31m|[m [36m|[m [33m19a0589[m Feature 2
+* [1;31m|[m [36m|[m [33m394fb56[m Feature 4
+* [1;31m|[m [36m|[m [33m6461804[m Feature 1
+[36m|[m [1;31m|[m[36m/[m  
+[36m|[m[36m/[m[1;31m|[m   
+* [1;31m|[m   [33m6dd4e94[m Merge pull request #10 from n-milos/bugFix
+[1;32m|[m[1;33m\[m [1;31m\[m  
+[1;32m|[m * [1;31m|[m [33m6545f5b[m Neka promjena na gran
+[1;32m|[m[1;32m/[m [1;31m/[m  
+* [1;31m|[m   [33mef3c98c[m Merge branch 'bugFix' of https://github.com/n-milos/psr-demo into bugFix
+[1;34m|[m[1;35m\[m [1;31m\[m  
+[1;34m|[m * [1;31m|[m [33m5be2742[m kon
+[1;34m|[m * [1;31m|[m [33mce16bdc[m Dodato grana 1
+* [1;35m|[m [1;31m|[m [33m1854617[m dorada
+* [1;35m|[m [1;31m|[m [33mc9165d4[m Dodata linija 4 grana
+* [1;35m|[m [1;31m|[m [33mf26cb62[m dorada
+* [1;35m|[m [1;31m|[m [33m2adc995[m Dodata linija 3 master
+* [1;35m|[m [1;31m|[m [33m0d18774[m Dodata linija 2 master
+* [1;35m|[m [1;31m|[m [33m880dd8e[m Dodata linija 1 master
+[1;35m|[m[1;35m/[m [1;31m/[m  
+* [1;31m|[m [33m82b8209[m Dodato master 3
+* [1;31m|[m [33m0364a58[m Dodato master 2
+* [1;31m|[m [33mfbf4342[m Dodato master 1
+* [1;31m|[m   [33m4bf8cd5[m Sredjen konflikt
+[1;36m|[m[31m\[m [1;31m\[m  
+[1;36m|[m * [1;31m\[m   [33m48fe0ee[m Merge branch 'master' into bugFix
+[1;36m|[m [32m|[m[33m\[m [1;31m\[m  
+[1;36m|[m * [33m|[m [1;31m|[m [33mf86d302[m grana dorada 2
+[1;36m|[m * [33m|[m [1;31m|[m [33md5eaaa9[m grana dorada 3
+[1;36m|[m * [33m|[m [1;31m|[m [33m8ab5000[m grana dorada 1
+* [33m|[m [33m|[m [1;31m|[m [33m88e906e[m jos nesto
+[33m|[m [33m|[m[33m/[m [1;31m/[m  
+[33m|[m[33m/[m[33m|[m [1;31m|[m   
+* [33m|[m [1;31m|[m [33mfd0f0aa[m master dorada 3
+* [33m|[m [1;31m|[m [33mc50334d[m master dorada 2
+[33m|[m[33m/[m [1;31m/[m  
+* [1;31m|[m [33m762b0d0[m dodata linija 3
+* [1;31m|[m [33m285f043[m dodata linija 2
+* [1;31m|[m [33mf153d4c[m dodata linija 1
+* [1;31m|[m [33m22ab73d[m dodata master linija 3
+* [1;31m|[m [33mfa00b3e[m dodata master linija 2
+* [1;31m|[m [33m4a087bd[m dodata master linija 1
+* [1;31m|[m [33md766c5f[m Brisanje grana 2
+* [1;31m|[m [33me5ca3af[m Brisanje grana 1
+* [1;31m|[m   [33m481e8f4[m Merge branch 'bugFix' of https://github.com/n-milos/psr-demo into bugFix
+[34m|[m[35m\[m [1;31m\[m  
+[34m|[m * [1;31m|[m [33m5f66ef8[m Revert "Testni komit da bi ga revert"
+[34m|[m * [1;31m|[m [33mdfde298[m Revert "Rebaziranje gotovo"
+[34m|[m * [1;31m|[m [33mb5f00c4[m Testni komit da bi ga revert
+* [35m|[m [1;31m|[m [33m245432e[m Ispravka greske 2
+* [35m|[m [1;31m|[m [33m438f54e[m Srednjeno
+* [35m|[m [1;31m|[m [33m950de03[m Revert "Rebaziranje gotovo"
+* [35m|[m [1;31m|[m [33m9554d3e[m Testni komit da bi ga revert
+* [35m|[m [1;31m|[m [33m9e1f740[m Jos jedna korekcija na masteru
+* [35m|[m [1;31m|[m [33m9d18fc0[m Ispravka na masteru
+[35m|[m[35m/[m [1;31m/[m  
+* [1;31m|[m [33m9baa344[m Rebaziranje gotovo
+* [1;31m|[m [33m3a11e4b[m Promjena na masteru
+[1;31m|[m[1;31m/[m  
+*   [33me90d2cd[m Rijesen konflikt
+[36m|[m[1;31m\[m  
+[36m|[m * [33m0fa43f1[m Dodat komentar 0
+* [1;31m|[m [33m0d79d5b[m Dodat komentar 1
+[1;31m|[m[1;31m/[m  
+* [33m11ae808[m Create README.md
+* [33me9b10bd[m Dorada
+*   [33m89fd51c[m Merge pull request #9 from n-milos/milos
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mc454167[m Dodao sam i na grani
+[1;32m|[m[1;32m/[m  
+* [33m9b63ac6[m Evo i poslije odmora istim tempom
+* [33mf74f6e5[m Nije bilo dobor pa doradjeno
+*   [33m413a226[m Merge pull request #8 from n-milos/task-32
+[1;34m|[m[1;35m\[m  
+[1;34m|[m *   [33m1311755[m Merge branch 'master' into task-32
+[1;34m|[m [1;36m|[m[1;34m\[m  
+[1;34m|[m [1;36m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m   
+* [1;36m|[m   [33mde8e2ed[m Merge pull request #7 from n-milos/task-31
+[32m|[m[33m\[m [1;36m\[m  
+[32m|[m * [1;36m|[m [33mf576328[m Dodata metoda hasCode
+[32m|[m[32m/[m [1;36m/[m  
+[32m|[m * [33m42e8e6b[m Dodata metoda equals
+[32m|[m[32m/[m  
+*   [33m3e3cf2f[m Merge pull request #5 from n-milos/task-22
+[34m|[m[35m\[m  
+[34m|[m * [33m9a20892[m Resenje drugog programera
+* [35m|[m   [33medc38b4[m Merge pull request #4 from n-milos/task-21
+[36m|[m[35m\[m [35m\[m  
+[36m|[m [35m|[m[35m/[m  
+[36m|[m * [33m10a9be9[m Resenje prvog programera
+[36m|[m[36m/[m  
+*   [33mf58cc0c[m Merge pull request #2 from n-milos/task-1
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m7f7ec23[m Override metode toString u Post modelu
+[1;32m|[m[1;32m/[m  
+* [33m5ef58dd[m Inicijalni komit
+* [33m5cb975c[m[33m ([m[mrefs/meta/smartgit/reviews[m[33m)[m Initialization
