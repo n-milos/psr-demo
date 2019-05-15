@@ -13,7 +13,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "posts", schema = "public")
 public class Post {
-
+dsfa
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
