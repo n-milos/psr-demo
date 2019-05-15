@@ -1,5 +1,6 @@
 package psr.test.PSRDemo.model;
-
+//lokal promjena
+//serverska promjena
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -50,11 +51,12 @@ public class Post {
 	public String getTitle() {
 		return title;
 	}
+	//Neka promjena na masteru lokalno
 
 	public void setTitle(String title) {
 		this.title = title;
 	}
-
+	//Opet promjena na masteru
 	public String getBody() {
 		return body;
 	}
