@@ -1,5 +1,5 @@
 package psr.test.PSRDemo.model;
-
+//serverska promjena
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
