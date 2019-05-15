@@ -42,6 +42,7 @@ public class Post {
 		this.user = user;
 	}
 	//Dodata linija 1
+	//Dodata linija 2
 
 	public String getTitle() {
 		return title;
