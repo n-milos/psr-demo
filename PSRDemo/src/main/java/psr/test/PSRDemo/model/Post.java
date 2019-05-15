@@ -1,4 +1,5 @@
 111111111111111111111
+22222222222222222222
 package psr.test.PSRDemo.model;
 //lokal promjena
 //serverska promjena
@@ -26,6 +27,8 @@ public class Post {
 	//Dorada 1
 	//Dorada 2
 	//Dorada 3
+
+	//OOOOOOO
 
 	public long getId() {
 		return id;
