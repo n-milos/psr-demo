@@ -22,6 +22,7 @@ public class Post {
 	@Column(name = "body")
 	private String body;
 	//Dorada 1
+	//Dorada 2
 
 	public long getId() {
 		return id;
