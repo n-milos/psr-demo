@@ -52,7 +52,6 @@ public class User {
 		this.email = email;
 	}
 
-	// Neka promjena na grani
 	public String getAddress() {
 		return address;
 	}
