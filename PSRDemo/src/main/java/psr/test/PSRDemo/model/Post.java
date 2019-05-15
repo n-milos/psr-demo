@@ -29,6 +29,7 @@ public class Post {
 	public void setId(long id) {
 		this.id = id;
 	}
+	//Ovo sam dodao na grani i pull-request saljem na master
 
 	public User getUser() {
 		return user;
