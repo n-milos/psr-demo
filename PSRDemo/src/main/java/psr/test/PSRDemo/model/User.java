@@ -19,9 +19,17 @@ public class User {
 	private String email;
 	@Column(name = "addqress")
 	private String address;
+<<<<<<< HEAD
 	public long getId() {
 		return id;
 	}
+=======
+
+	public long getId() {
+		return id;
+	}
+	//Dodat komentar 3
+>>>>>>> 7d800f0b151ce7237937d66331ba6dc5150a846c
 
 	public void setId(long id) {
 		this.id = id;
