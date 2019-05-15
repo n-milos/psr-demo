@@ -48,6 +48,7 @@ public class Post {
 	public String getTitle() {
 		return title;
 	}
+	//Neka promjena na masteru lokalno
 
 	public void setTitle(String title) {
 		this.title = title;
