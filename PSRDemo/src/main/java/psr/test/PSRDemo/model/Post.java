@@ -28,6 +28,7 @@ public class Post {
 	//Dodata linija 1
 	//Dodata linija 2
 	//Dodata linija 3
+	//Dodata linija 4
 
 	public void setId(long id) {
 		this.id = id;
