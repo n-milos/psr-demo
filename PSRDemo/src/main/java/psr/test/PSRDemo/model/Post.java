@@ -25,6 +25,7 @@ public class Post {
 	public long getId() {
 		return id;
 	}
+	//Dodata linija 1
 
 	public void setId(long id) {
 		this.id = id;
