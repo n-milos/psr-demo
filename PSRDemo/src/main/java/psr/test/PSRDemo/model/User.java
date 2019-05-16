@@ -19,8 +19,7 @@ public class User {
 	private String email;
 	@Column(name = "addqress")
 	private String address;
-	//Dorada
-	//Test
+
 	public long getId() {
 		return id;
 	}
@@ -28,6 +27,7 @@ public class User {
 	public void setId(long id) {
 		this.id = id;
 	}
+	//Linija 1
 
 	public String getName() {
 		return name;
