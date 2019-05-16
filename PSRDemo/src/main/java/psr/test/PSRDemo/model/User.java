@@ -28,6 +28,9 @@ public class User {
 	public void setId(long id) {
 		this.id = id;
 	}
+	//Linija 1
+	//Linija 2
+	//Linija 3
 
 	public String getName() {
 		return name;
