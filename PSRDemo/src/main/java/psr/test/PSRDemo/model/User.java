@@ -28,6 +28,7 @@ public class User {
 		this.id = id;
 	}
 	//Linija 1
+	//Linija 2
 
 	public String getName() {
 		return name;
