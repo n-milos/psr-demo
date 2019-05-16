@@ -30,6 +30,7 @@ public class User {
 	//Linija 1
 	//Linija 2
 	//Linija 3
+	//Linija 4
 
 	public String getName() {
 		return name;
