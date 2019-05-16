@@ -1,8 +1,5 @@
-111111111111111111111
-22222222222222222222
 package psr.test.PSRDemo.model;
-//lokal promjena
-//serverska promjena
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -24,11 +21,6 @@ public class Post {
 	private String title;
 	@Column(name = "body")
 	private String body;
-	//Dorada 1
-	//Dorada 2
-	//Dorada 3
-
-	//OOOOOOO
 
 	public long getId() {
 		return id;
@@ -37,7 +29,6 @@ public class Post {
 	public void setId(long id) {
 		this.id = id;
 	}
-	//Ovo sam dodao na grani i pull-request saljem na master
 
 	public User getUser() {
 		return user;
@@ -46,25 +37,18 @@ public class Post {
 	public void setUser(User user) {
 		this.user = user;
 	}
-	//Dodata linija 1
-	//Dodata linija 2
-	//Dodata linija 3
 
 	public String getTitle() {
 		return title;
 	}
-	//Neka promjena na masteru lokalno
 
 	public void setTitle(String title) {
 		this.title = title;
 	}
-	//Opet promjena na masteru
+
 	public String getBody() {
 		return body;
 	}
-	//Jedna dorada
-	//Jedna dorada
-	//Jedna dorada
 
 	public void setBody(String body) {
 		this.body = body;
@@ -72,10 +56,7 @@ public class Post {
 
 	@Override
 	public String toString() {
-		//Dodao sam ovaj komentar kako bi bilo nesto dodato :D
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
-		//Dodao sam na grani nesto
-		//Jos jedna korekcija
 	}
 
 	@Override
