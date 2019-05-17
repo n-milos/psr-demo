@@ -65,7 +65,7 @@ public class Post {
 	public String toString() {
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 	}
-
+	//feature milos
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
