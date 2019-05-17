@@ -73,5 +73,7 @@ public class User {
 		return "User [id=" + id + ", name=" + name + ", username=" + username + ", email=" + email + ", address="
 				+ address + "]";
 	}
-
+	//Promjena grana 1
+	//Promjena grana 2
+	//Promjena grana 3
 }
