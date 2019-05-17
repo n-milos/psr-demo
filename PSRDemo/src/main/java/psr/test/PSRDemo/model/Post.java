@@ -105,4 +105,5 @@ public class Post {
 		return result;
 	}
 	//Promjena master m1
+	//Promjena master m2
 }
