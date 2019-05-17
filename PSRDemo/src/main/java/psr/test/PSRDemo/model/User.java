@@ -59,7 +59,7 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
+	//Linija 1
 	public String getAddress() {
 		return address;
 	}
