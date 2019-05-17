@@ -74,9 +74,6 @@ public class User {
 				+ address + "]";
 	}
 	//Promjena grana 1
-<<<<<<< HEAD
 	//Promjena grana 2
 	//Promjena grana 3
-=======
->>>>>>> Promjena grana 1
 }
