@@ -69,7 +69,8 @@ public class User {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-
+	jagoda
+   pita volim li da se suncam i kako podnosim sunce...i reko sto..nako kaze
 	@Override
 	public String toString() {
 		return "User [id=" + id + ", name=" + name + ", username=" + username + ", email=" + email + ", address="
