@@ -94,6 +94,7 @@ public class Post {
 			return false;
 		return true;
 	}
+	//Dorada linija 1
 
 	public int hashCode() {
 		final int prime = 31;
