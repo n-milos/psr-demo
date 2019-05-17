@@ -96,6 +96,7 @@ public class Post {
 	}
 	//Dorada linija 1
 	//Dorada linija 2
+	//Dorada linija 3
 
 	public int hashCode() {
 		final int prime = 31;
