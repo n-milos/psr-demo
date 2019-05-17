@@ -60,6 +60,7 @@ public class User {
 		this.email = email;
 	}
 	//Linija 1
+	//Linija 1
 	public String getAddress() {
 		return address;
 	}
