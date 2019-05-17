@@ -106,4 +106,5 @@ public class Post {
 	}
 	//Promjena master m1
 	//Promjena master m2
+	//Promjena master m3
 }
