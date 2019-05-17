@@ -66,6 +66,7 @@ public class Post {
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 	}
 	//feature milos
+	//feature milos
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
