@@ -67,6 +67,7 @@ public class Post {
 	}
 	//feature milos
 	//feature milos
+	//feature milos
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
