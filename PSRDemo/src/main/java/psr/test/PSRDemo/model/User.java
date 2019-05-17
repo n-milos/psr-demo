@@ -9,6 +9,7 @@ import javax.persistence.Table;
 @Table(name = "users", schema = "public")
 public class User {
 	//Promjena master post 1
+	//Promjena master post 2
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
