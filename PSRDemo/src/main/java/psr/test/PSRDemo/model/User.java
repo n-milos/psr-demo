@@ -8,6 +8,9 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "users", schema = "public")
 public class User {
+	//Promjena master post 1
+	//Promjena master post 2
+	//Promjena master post 3
 	@Id
 	@Column(name = "id", updatable = false, nullable = false, unique = true)
 	private long id;
@@ -28,6 +31,10 @@ public class User {
 		this.id = id;
 	}
 	//Linija 1
+	//Linija 2
+	//Linija 3
+	//Linija 4
+
 
 	public String getName() {
 		return name;
