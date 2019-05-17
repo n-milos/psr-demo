@@ -35,6 +35,7 @@ public class User {
 	//Linija 3
 	//Linija 4
 
+
 	public String getName() {
 		return name;
 	}

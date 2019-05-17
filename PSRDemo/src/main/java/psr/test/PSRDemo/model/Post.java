@@ -11,6 +11,9 @@ import javax.persistence.Table;
 @Table(name = "posts", schema = "public")
 public class Post {
 
+	//Promjena master user 1
+	//Promjena master user 2
+	//Promjena master user 3
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
@@ -27,6 +30,8 @@ public class Post {
 	}
 	//Dodata linija 1
 	//Dodata linija 2
+	//Dodata linija 3
+
 
 	public void setId(long id) {
 		this.id = id;
