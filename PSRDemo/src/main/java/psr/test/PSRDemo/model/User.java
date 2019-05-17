@@ -61,7 +61,6 @@ public class User {
 	}
 	//Linija 1
 	//Linija 1
-	//Linija 1
 	public String getAddress() {
 		return address;
 	}
