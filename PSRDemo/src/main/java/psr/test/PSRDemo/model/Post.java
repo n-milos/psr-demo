@@ -13,6 +13,7 @@ public class Post {
 
 	//Promjena master user 1
 	//Promjena master user 2
+	//Promjena master user 3
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
