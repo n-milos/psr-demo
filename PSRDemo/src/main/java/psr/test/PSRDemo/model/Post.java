@@ -11,6 +11,7 @@ import javax.persistence.Table;
 @Table(name = "posts", schema = "public")
 public class Post {
 
+	//Promjena master user 1
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
