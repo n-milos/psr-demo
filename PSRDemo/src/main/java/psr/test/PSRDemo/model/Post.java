@@ -104,4 +104,5 @@ public class Post {
 		result = prime * result + ((user == null) ? 0 : user.hashCode());
 		return result;
 	}
+	//Promjena master m1
 }
