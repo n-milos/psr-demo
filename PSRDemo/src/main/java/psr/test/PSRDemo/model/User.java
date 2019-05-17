@@ -51,6 +51,7 @@ public class User {
 	public void setUsername(String username) {
 		this.username = username;
 	}
+	//Dorada
 
 	public String getEmail() {
 		return email;
