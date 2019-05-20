@@ -11,9 +11,6 @@ import javax.persistence.Table;
 @Table(name = "posts", schema = "public")
 public class Post {
 
-	//Promjena master user 1
-	//Promjena master user 2
-	//Promjena master user 3
 	@Id
 	@Column(name = "id", nullable = false, updatable = false, unique = true)
 	private long id;
@@ -28,10 +25,6 @@ public class Post {
 	public long getId() {
 		return id;
 	}
-	//Dodata linija 1
-	//Dodata linija 2
-	//Dodata linija 3
-
 
 	public void setId(long id) {
 		this.id = id;
@@ -65,51 +58,4 @@ public class Post {
 	public String toString() {
 		return "Post [id=" + id + ", user=" + user + ", title=" + title + ", body=" + body + "]";
 	}
-	//feature milos
-	//feature milos
-	//feature milos
-	@Override
-	public boolean equals(Object obj) {
-		if (this == obj)
-			return true;
-		if (obj == null)
-			return false;
-		if (getClass() != obj.getClass())
-			return false;
-		Post other = (Post) obj;
-		if (body == null) {
-			if (other.body != null)
-				return false;
-		} else if (!body.equals(other.body))
-			return false;
-		if (id != other.id)
-			return false;
-		if (title == null) {
-			if (other.title != null)
-				return false;
-		} else if (!title.equals(other.title))
-			return false;
-		if (user == null) {
-			if (other.user != null)
-				return false;
-		} else if (!user.equals(other.user))
-			return false;
-		return true;
-	}
-	//Dorada linija 1
-	//Dorada linija 2
-	//Dorada linija 3
-
-	public int hashCode() {
-		final int prime = 31;
-		int result = 1;
-		result = prime * result + ((body == null) ? 0 : body.hashCode());
-		result = prime * result + (int) (id ^ (id >>> 32));
-		result = prime * result + ((title == null) ? 0 : title.hashCode());
-		result = prime * result + ((user == null) ? 0 : user.hashCode());
-		return result;
-	}
-	//Promjena master m1
-	//Promjena master m2
-	//Promjena master m3
 }
